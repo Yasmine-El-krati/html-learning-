@@ -1,0 +1,39 @@
+.ALL{
+	text-align: center ; 
+	margin: auto ;
+	border : 5px solid black ;
+	padding: 50px ; 
+	background-color:RoyalBlue ; 
+	color : white;
+	font-family: Halant
+	
+}
+img{
+	 border-radius: 50%;
+}
+.insta{
+	display: inline-block;
+	background-color: white;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+    font-size: 18px;
+	border : 5px solid white ;
+	margin : 2px;
+	border-radius:10px;
+	
+}
+.tiktok{
+	display: inline-block;
+	background-color: white;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+    font-size: 18px;
+	border : 5px solid white ;
+	margin : 2px ;
+	border-radius:10px;
+}
+a:link{
+	color : black ; 
+}
